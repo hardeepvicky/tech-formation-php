@@ -10,7 +10,7 @@
  * @author     Hardeep
  */
 
-require_once(dirname(__FILE__) . '/../../Vendor/S3/S3.php');
+require_once(dirname(__FILE__) . '/../Other/S3.php');
 require_once('FileUtility.php');
 
 class S3FileUtility extends FileUtility
