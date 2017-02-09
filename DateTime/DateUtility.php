@@ -10,8 +10,6 @@
  * @version    1.0
  */
 
-namespace Techformation\Datetime;
-
 class DateUtility 
 {
     const DATE_FORMAT = 'Y-m-d';

@@ -10,8 +10,6 @@
  * @author     Hardeep
  */
 
-namespace Techformation\File;
-
 require_once(dirname(__FILE__) . '/../Other/S3.php');
 require_once('FileUtility.php');
 

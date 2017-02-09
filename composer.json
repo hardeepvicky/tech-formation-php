@@ -1,5 +1,12 @@
 {
     "name": "tech-formation/php",
     "description": "Php repo containing basic functionality used in mostly php projects",
-    "require" : {}
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "TechFormation\\": "/"
+        }
+    }
 }

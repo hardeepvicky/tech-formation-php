@@ -6,8 +6,6 @@
  * @license    Proprietary
  * @author     Hardeep
  */
-namespace Techformation\File;
-
 class CsvUtility
 {
     public static function fetchCSV($filename, $header = true, $delimiter = ',') 

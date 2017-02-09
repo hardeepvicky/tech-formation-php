@@ -6,8 +6,6 @@
  * @version    1.0
  */
 
-namespace Techformation\File;
-
 class ImageUtility
 {
     public static function createImageFromBase64($file, $base_string)
