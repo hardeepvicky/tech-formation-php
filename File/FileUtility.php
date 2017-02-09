@@ -10,6 +10,8 @@
  * @author     Hardeep
  */
 
+namespace techformation\File;
+
 class FileUtility
 {
    public $maxSize, $ext, $path, $errors;
