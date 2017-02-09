@@ -6,7 +6,7 @@
  * @version    1.0
  */
 
-namespace techformation\File;
+namespace Techformation\File;
 
 class ImageUtility
 {

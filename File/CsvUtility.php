@@ -6,7 +6,7 @@
  * @license    Proprietary
  * @author     Hardeep
  */
-namespace techformation\File;
+namespace Techformation\File;
 
 class CsvUtility
 {

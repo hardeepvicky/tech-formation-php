@@ -10,7 +10,7 @@
  * @version    1.0
  */
 
-namespace techformation\Datetime;
+namespace Techformation\Datetime;
 
 class DateUtility 
 {

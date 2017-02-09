@@ -10,7 +10,7 @@
  * @author     Hardeep
  */
 
-namespace techformation\File;
+namespace Techformation\File;
 
 class FileUtility
 {
