@@ -1,7 +1,5 @@
 {
     "name": "tech-formation/php",
     "description": "Php repo containing basic functionality used in mostly php projects",
-    "require" : {
-        "monolog/monolog" : "1.x-dev"
-    }
+    "require" : {}
 }
